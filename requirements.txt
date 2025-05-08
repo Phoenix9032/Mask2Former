@@ -5,3 +5,4 @@ timm
 h5py
 submitit
 scikit-image
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
